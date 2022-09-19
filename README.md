@@ -1,7 +1,7 @@
 # compose-stepper
 A custom Stepper for jetpack compose 🚀
 
-##Getting Started
+## Getting Started
 --------
 [![](https://jitpack.io/v/maryamrzdh/compose-stepper.svg)](https://jitpack.io/#maryamrzdh/compose-stepper)
 

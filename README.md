@@ -1,8 +1,10 @@
 # compose-stepper
 A custom Stepper for jetpack compose 🚀
 
-Download
+Getting Started
 --------
+[![](https://jitpack.io/v/maryamrzdh/compose-stepper.svg)](https://jitpack.io/#maryamrzdh/compose-stepper)
+
 
 Add the following code to your project's _root_ `build.gradle` file:
 

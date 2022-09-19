@@ -23,7 +23,7 @@ dependencies {
 }
 ```
 
-##Usage
+## Usage
 Example is in the [source code](https://github.com/maryamrzdh/compose-stepper/blob/main/app/src/main/java/com/maryamrzdh/stepperview/MainActivity.kt).
 
 

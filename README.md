@@ -2,7 +2,7 @@
 A custom Stepper for jetpack compose 🚀
 
 ## Getting Started
---------
+
 [![](https://jitpack.io/v/maryamrzdh/compose-stepper.svg)](https://jitpack.io/#maryamrzdh/compose-stepper)
 
 Please get Android Studio Arctic Fox 2020.3.1 or above from here and use JDK 11 to build this project.

@@ -26,8 +26,53 @@ dependencies {
 ## Usage
 Example is in the [source code](https://github.com/maryamrzdh/compose-stepper/blob/main/app/src/main/java/com/maryamrzdh/stepperview/MainActivity.kt).
 
+### Basic
+
+```kotlin
+
+val numberStep = 4
+var currentStep by rememberSaveable { mutableStateOf(1) }
+val titleList= arrayListOf("Step 1","Step 2","Step 3","Step 4")
+
+Stepper(
+        numberOfSteps = numberStep,
+        currentStep = currentStep,
+        stepDescriptionList = titleList
+) 
+
+```
+
+### Customizations
+
+```kotlin
+
+Stepper(
+        modifier = Modifier.fillMaxWidth(),
+        numberOfSteps = numberStep,
+        currentStep = currentStep,
+        stepDescriptionList = titleList,
+        selectedColor = Color.Blue,
+        unSelectedColor= Color.LightGray
+)
+
+```
+
+```kotlin
+
+Stepper(
+        modifier = Modifier.fillMaxWidth(),
+        numberOfSteps = numberStep,
+        currentStep = currentStep,
+        stepDescriptionList = titleList,
+        isRainbow = true
+)
+
+```
+
 
 ## Medium Blog
+For more info go to __[Stepper using JetPack Compose](https://medium.com/@maryamemarzadeh72/stepper-using-jetpack-compose-3765bce0f1b3)__
+
 
 ## Library Info
 * Current version of the library needs targetSdk 33.

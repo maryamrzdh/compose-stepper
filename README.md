@@ -1,3 +1,15 @@
+<div align="center">
+  <img src="images/Stepper.gif" alt="heart-switch Demo">
+</div>
+<br>
+
+<h1 align="center">Compose-Stepper</h1>
+
+
+<h1 align="center">compose-stepper</h1>
+<h3 align="center">Compose-Stepper library provides a custom stepper in the modern android toolkit Jetpack compose which can be easily added in to your composable functions.</h3>
+<br>
+
 # compose-stepper
 A custom Stepper for jetpack compose 🚀
 
@@ -42,6 +54,9 @@ Stepper(
 
 ```
 
+![Basic Usage Preview](images/basic-usage.png)
+
+
 ### Customizations
 
 ```kotlin
@@ -57,6 +72,9 @@ Stepper(
 
 ```
 
+![Custom Color Preview](images/custom-color.png)
+
+
 ```kotlin
 
 Stepper(
@@ -68,6 +86,8 @@ Stepper(
 )
 
 ```
+
+![Rainbow Color Preview](images/rainbow-color.png)
 
 
 ## Medium Blog

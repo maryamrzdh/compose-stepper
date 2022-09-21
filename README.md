@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="images/Stepper.gif" alt="heart-switch Demo">
+  <img src="images/Stepper.gif" alt="compose-stepper Demo" height="400>
 </div>
 <br>
 
 <h1 align="center">Compose-Stepper</h1>
 
-
-<h1 align="center">compose-stepper</h1>
 <h3 align="center">Compose-Stepper library provides a custom stepper in the modern android toolkit Jetpack compose which can be easily added in to your composable functions.</h3>
 <br>
 
